@@ -1,6 +1,5 @@
 # My_Restaurant
-Assignment-Zappos Family about the Data Science - Software Engineering College Intern position
-
+API to hanlde group of Restaurant and their Menu.
 # Clone project
 # Start SQl service
 # start redis server
