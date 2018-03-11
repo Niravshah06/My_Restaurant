@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>My_Restaurant</name>
-	<description>Zappos Family about the Data Science - Software Engineering College Intern position</description>
+	
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
